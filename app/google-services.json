@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463387223250",
+    "firebase_url": "https://mtube-f7628-default-rtdb.firebaseio.com",
+    "project_id": "mtube-f7628",
+    "storage_bucket": "mtube-f7628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463387223250:android:e2e7e6cac28467c135790b",
+        "android_client_info": {
+          "package_name": "com.example.englishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463387223250-939551aj1g2apm5mfbidj1odmgamhsk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.englishapp",
+            "certificate_hash": "e80fa6378cc03b69e5cdb82c4a3acd0b1057a873"
+          }
+        },
+        {
+          "client_id": "463387223250-vfnokmirl91fcfigjs7qn99esm3nt80b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABG5ViYfOR00-q_W5jPDGmpF_SNOmHQVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463387223250-vfnokmirl91fcfigjs7qn99esm3nt80b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
